@@ -16,7 +16,7 @@
     // "baseUrl": "./",
     "skipLibCheck": true,
     "incremental": true,
-
+    "types": ["node", "jest"],
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
     "noImplicitAny": false,
